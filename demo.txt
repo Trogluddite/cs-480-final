@@ -1,0 +1,13 @@
+joe@Joes-Work-Macbook cs-480-final % ./decrypt_demo.py
+show_ciphertext parameter is set to false
+Deciphered Message:
+Here's some secret text for the CS-480 final
+If the ROT13 decoding worked, you should be able to read this!
+
+joe@Joes-Work-Macbook cs-480-final % cat secret.txt
+Urer'f fbzr frperg grkg sbe gur PF-480 svany
+Vs gur EBG13 qrpbqvat jbexrq, lbh fubhyq or noyr gb ernq guvf!
+
+joe@Joes-Work-Macbook cs-480-final % cat final.txt
+Here's some secret text for the CS-480 final
+If the ROT13 decoding worked, you should be able to read this!
